@@ -1,1 +1,1 @@
-# uade_challenge_2
+I did not find the activity but in summary it asks that receiving the txt of challenge 1. return in the most efficient way possible a dictionary with a specific format, said format is the one that is returned.
